@@ -30,8 +30,8 @@
 
 ## Commission Build
 
-1. GWS TKL
+9. GWS TKL
 
 
-2. Lily58 PC Edition
+10. Lily58 PC Edition
 
