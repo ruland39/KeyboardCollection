@@ -8,6 +8,7 @@ Acrycult is a 60% WKL Gasket Mounted Stacked Acrylic Keyboard with FR4 Plate hea
 - Plate: FR4 Plate
 - Keycaps: Kprepublic PBT Gentleman Black on Black Keycaps and XMI RGBY Mods
 - Stabilizer: Cherry Clip-Ins
+- PCB: dyz60
 
 
 ### Typing Test Link: youtube.com
