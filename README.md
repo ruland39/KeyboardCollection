@@ -5,7 +5,7 @@
 
 
 2. Yuri Switch
-
+![yuriheroshot1](https://cdn.discordapp.com/attachments/809302630219382824/996416929873014835/unknown.png?width=944&height=556)
 
 3. Acrylice
 
