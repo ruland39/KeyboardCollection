@@ -25,9 +25,6 @@
 8. DN 
 
 
-9. Voyager68
-
-
 ## Commission Build
 
 9. GWS TKL
