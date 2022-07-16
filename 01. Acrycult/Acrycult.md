@@ -5,7 +5,7 @@ Acrycult is a 60% WKL Gasket Mounted Stacked Acrylic Keyboard with FR4 Plate hea
 
 ## Configuration:
 - Switch: Gateron Milky Yellow KS3x47 (Lubed 205g0 + Spring Swapped 55gr)
-- Plate: FR4 Plate
+- Plate: FR4
 - Keycaps: Kprepublic PBT Gentleman Black on Black Keycaps and XMI RGBY Mods
 - Stabilizer: Cherry Clip-Ins
 - PCB: dyz60
