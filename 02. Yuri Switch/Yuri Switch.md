@@ -9,6 +9,7 @@ Yuri Switch is a 40%  Alice-like Layout Sandwich Mounted Stacked Acrylic Keyboar
 - Stabilizer: Kelowna Screw-Ins
 - PCB: Yuri by Oceeean
 
+### Fusion360 Preview: https://a360.co/3PgWwX2
 
 ### Typing Test Link: youtube.com
 
