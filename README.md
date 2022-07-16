@@ -13,22 +13,23 @@
 4. Envy60
 
 
-5. N7
+5. dyz40BP
 
 
-6. AddOn
+6. N7
 
 
-7. Pikachuu40
+7. AddOn
+
+8. Pikachuu40
 
 
-8. DN 
+9. DN 
 
 
 ## Commission Build
 
-9. GWS TKL
+10. GWS TKL
 
 
-10. Lily58 PC Edition
-
+11. Lily58 PC Edition
